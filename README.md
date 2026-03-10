@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the avaliable sensor in android mobile devices”.
-Developed by: AATHI SAKTHI S
-Registeration Number : 212223223001
+Developed by: APARNA.M
+Registeration Number : 212223220008
 */
 ```
 ## MainActivity.java
